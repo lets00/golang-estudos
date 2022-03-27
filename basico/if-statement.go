@@ -23,5 +23,5 @@ func main() {
 	fmt.Println(sqrt(2), sqrt(-4))
 
 	// if with sort statement
-	fmt.Println(pow(3, 2, 10), pow(3, 2, 20))
+	fmt.Println(pow(3, 2, 10), pow(3, 3, 20))
 }
